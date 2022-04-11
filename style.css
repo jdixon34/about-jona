@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(38, 38, 38);
+    background-color:  #ba4a00 ;
 }
 
 h1 {
-    color: rgb(0,162,255);
-    text-align: center;
+    color:   #138d75  ;
+    text-align: left;
 }
 
 /*Styling elements for my biography block*/
@@ -14,8 +14,8 @@ h1 {
     color: white;
     text-align: center;
     display: block;
-    margin-left: 350px;
-    margin-right: 350px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 /*Referencing the class I created for my img in HTML*/
