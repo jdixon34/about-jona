@@ -22,13 +22,13 @@ h2 {
     text-align: center;
 }
 .yoga-list{
-    color: green;
+    color: darkgreen;
     list-style: circle;
 }
 .center{
     width: 100%;
     margin: auto;
-    text-align:left;
+    text-align:center;
 }
 
 .center-list{
