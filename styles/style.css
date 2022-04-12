@@ -12,10 +12,10 @@ h1 {
     background-color: orange;
     padding: 10px;
     color: white;
-    text-align:right;
+    text-align:center;
     display: block;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 350px;
+    margin-right: 350px;
 }
 h2 {
     color: purple;
