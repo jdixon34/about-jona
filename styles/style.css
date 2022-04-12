@@ -21,6 +21,12 @@ h2 {
     color: purple;
     text-align: center;
 }
+
+h3 {
+    color: aqua;
+    text-align: center;
+}
+
 .yoga-list{
     color: darkgreen;
     list-style: circle;
