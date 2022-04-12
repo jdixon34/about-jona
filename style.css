@@ -17,19 +17,14 @@ h1 {
     margin-left: 150px;
     margin-right: 150px;
 }
-
-/*Referencing the class I created for my img in HTML  nwherejona {
-    width: 600px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}*/
-
+h2 {
+    color: purple;
+    text-align: left;
+}
 .yoga-list{
     color: green;
     list-style: circle;
 }
-
 .center{
     width: 100%;
     margin: auto;
@@ -42,3 +37,7 @@ h1 {
     text-align: left;
     display: inline-block;
 }
+
+
+
+
