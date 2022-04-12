@@ -31,12 +31,12 @@ h3 {
     color: darkgreen;
     list-style: circle;
     text-align: left;
-    display: inline-block;
 }
 .center-list{
     width: 25%;
     list-style-position: inside;
     text-align: left;
+    display: inline-block;
 }
 
 .image-center {
