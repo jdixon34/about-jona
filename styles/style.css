@@ -12,8 +12,8 @@ h1 {
     background-color: orange;
     padding: 10px;
     color: white;
-    text-align:center;
-    display: block;
+    text-align:left;
+    display: inline;
     margin-left: 350px;
     margin-right: 350px;
 }
