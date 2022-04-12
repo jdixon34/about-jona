@@ -31,6 +31,7 @@ h3 {
     color: darkgreen;
     list-style: circle;
     text-align: left;
+    display: inline-block;
 }
 .center-list{
     width: 25%;
