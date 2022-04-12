@@ -13,7 +13,7 @@ h1 {
     padding: 10px;
     color: white;
     text-align:left;
-    display: inline;
+    display: block;
     margin-left: 350px;
     margin-right: 350px;
 }
