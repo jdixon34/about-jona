@@ -18,11 +18,27 @@ h1 {
     margin-right: 150px;
 }
 
-/*Referencing the class I created for my img in HTML*/
-.nowherejona {
+/*Referencing the class I created for my img in HTML  nwherejona {
     width: 600px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}*/
+
+.yoga-list{
+    color: green;
+    list-style: circle;
 }
 
+.center{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.center-list{
+    width: 15%;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
