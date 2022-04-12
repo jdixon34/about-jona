@@ -24,12 +24,7 @@ h2 {
 .yoga-list{
     color: darkgreen;
     list-style: circle;
-}
-.center{
-    width: 100;
-    margin: auto;
-    text-align:left;
-}
+    text-align: left;
 
 .center-list{
     width: 25%;
