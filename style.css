@@ -34,7 +34,7 @@ h2 {
 .center-list{
     width: 25%;
     list-style-position: inside;
-    text-align: left;
+    text-align: center;
     display: inline-block;
 }
 
