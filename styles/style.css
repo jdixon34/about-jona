@@ -10,12 +10,16 @@ h1 {
 /*Styling elements for my biography block*/
 .bio {
     background-color: orange;
-    padding: 10px;
+    padding: 20px;
     color: white;
     text-align:center;
     display: block;
+    /*box-sizing: border-box;
+    transform: scale(1.5);*/
     margin-left: 450px;
     margin-right: 450px;
+    /*width:
+    height:*/
 }
 h2 {
     color: purple;
@@ -33,7 +37,7 @@ h3 {
     text-align: left;
 }
 .center-list{
-    width: 45%;
+    width: 60%;
     list-style-position: inside;
     text-align: left;
     display: inline-block;
