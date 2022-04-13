@@ -35,7 +35,7 @@ h3 {
 .center-list{
     width: 45%;
     list-style-position: inside;
-    text-align: center;
+    text-align: left;
     display: inline-block;
 }
 
