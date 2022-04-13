@@ -30,12 +30,12 @@ h3 {
 .yoga-list {
     color: darkgreen;
     list-style: circle;
-    text-align: center;
+    text-align: left;
 }
 .center-list{
     width: 25%;
     list-style-position: inside;
-    text-align: left;
+    text-align: center;
     display: inline-block;
 }
 
