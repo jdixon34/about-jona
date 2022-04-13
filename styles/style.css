@@ -16,8 +16,8 @@ h1 {
     display: block;
     /*box-sizing: border-box;
     transform: scale(1.5);*/
-    margin-left: 450px;
-    margin-right: 450px;
+    margin-left: 20%;
+    margin-right: 20%;
     /*width:
     height:*/
 }
@@ -37,7 +37,7 @@ h3 {
     text-align: left;
 }
 .center-list{
-    width: 60%;
+    width: 20%;
     list-style-position: inside;
     text-align: left;
     display: inline-block;
@@ -48,3 +48,15 @@ h3 {
     margin-left: auto;
     margin-right: auto;
 }
+.image-left {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-right {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
